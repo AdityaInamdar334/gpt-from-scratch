@@ -39,6 +39,8 @@ In this project, I've implemented the core components of a GPT model, including:
    python train.py
    ```
    This script will train the GPT model on a small text dataset. You can modify the script to use a different dataset or adjust the model's hyperparameters.
+   ![image](https://github.com/user-attachments/assets/af79ea3d-8836-483e-92ea-e3bcba40a3a5)
+generated text
 
 ## Additional Notes
 
