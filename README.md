@@ -65,7 +65,3 @@ Feel free to contribute to this project by:
 
 This project is licensed under the MIT License.
 ```
-
-**Remember to replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.**
-
-I hope this README provides a clear and comprehensive overview of your project! Let me know if you have any other questions or requests.
